@@ -6,7 +6,7 @@ class Solution(object):
         }
         
         total = 0
-        prev = 0
+        prev = 0 
         
         for ch in reversed(s):  # loop from right to left
             val = values[ch]
