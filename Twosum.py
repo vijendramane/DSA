@@ -4,7 +4,7 @@ class Solution:
         
         for i, num in enumerate(nums):
             complement = target - num  # Find the complement
-            
+             
             if complement in num_map:
                 return [num_map[complement], i]  # Return indices
             
