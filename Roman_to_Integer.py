@@ -1,4 +1,4 @@
-class Solution(object):
+ class Solution(object):
     def romanToInt(self, s):
         values = {
             'I': 1, 'V': 5, 'X': 10,
