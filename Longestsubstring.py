@@ -1,4 +1,4 @@
-class Solution(object):
+ class Solution(object):
     def lengthOfLongestSubstring(self, s):
         seen = {}
         left = 0
