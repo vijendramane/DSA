@@ -1,4 +1,4 @@
-class Solution:
+ class Solution:
     def twoSum(self, nums, target):
         num_map = {}  # Dictionary to store numbers and their indices
         
