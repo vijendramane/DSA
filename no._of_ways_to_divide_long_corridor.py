@@ -3,7 +3,7 @@ class Solution(object):
         MOD = 10**9 + 7
 
         total_seats = corridor.count('S') 
-        if total_seats == 0 or total_seats % 2 != 0:
+        if total_seats == 0 or total_seats % 2 != 0: 
             return 0
 
         ways = 1 
