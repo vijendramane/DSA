@@ -8,7 +8,7 @@ class Solution(object):
 
         ways = 1 
         seats = 0
-        plants = 0
+        plants = 0 
 
         for c in corridor:
             if c == 'S':
