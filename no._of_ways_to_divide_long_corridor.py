@@ -2,7 +2,7 @@ class Solution(object):
     def numberOfWays(self, corridor):
         MOD = 10**9 + 7
 
-        total_seats = corridor.count('S')
+        total_seats = corridor.count('S') 
         if total_seats == 0 or total_seats % 2 != 0:
             return 0
 
