@@ -1,4 +1,4 @@
-class Solution(object):
+ class Solution(object):
     def numberOfWays(self, corridor):
         MOD = 10**9 + 7
 
