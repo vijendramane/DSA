@@ -7,7 +7,7 @@ class Solution:
         
         # Convert to 1-indexed
         present = [0] + present
-        future = [0] + future
+        future = [0] + future 
          
         # Tree DP with knapsack optimization
         # For each node, return a dict: cost -> max_profit for that cost
