@@ -2,7 +2,7 @@ class Solution:
     def maxProfit(self, n, present, future, hierarchy, budget):
         # Build adjacency list for the tree
         children = [[] for _ in range(n + 1)]
-        for u, v in hierarchy:
+        for u, v in hierarchy: 
             children[u].append(v)
         
         # Convert to 1-indexed
