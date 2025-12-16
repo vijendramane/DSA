@@ -12,7 +12,7 @@ class Solution:
         # Tree DP with knapsack optimization
         # For each node, return a dict: cost -> max_profit for that cost
         def dfs(node, parent_bought):
-            # Get cost for this node
+            # Get cost for this node 
             if parent_bought:
                 node_cost = present[node] // 2
             else:
