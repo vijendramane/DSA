@@ -8,6 +8,7 @@ class Solution(object):
                 nums[left] = nums[right - 1]
                 right -= 1
             else:
-                left += 1
+                left += 1 S
+                
 
         return right
