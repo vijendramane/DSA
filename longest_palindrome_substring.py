@@ -11,7 +11,7 @@ class Solution(object):
                 left -= 1
                 right += 1
             return left + 1, right - 1
-
+ 
         for i in range(len(s)):
             # Odd-length palindrome
             l1, r1 = expand(i, i)
