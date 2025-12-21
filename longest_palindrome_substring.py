@@ -8,7 +8,7 @@ class Solution(object):
 
         def expand(left, right):
             while left >= 0 and right < len(s) and s[left] == s[right]:
-                left -= 1
+                left -= 1 
                 right += 1
             return left + 1, right - 1
  
