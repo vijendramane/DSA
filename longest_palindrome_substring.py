@@ -2,7 +2,7 @@ class Solution(object):
     def longestPalindrome(self, s):
         if not s:
             return ""
-
+ 
         start = 0
         max_len = 1
 
