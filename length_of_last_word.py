@@ -5,7 +5,7 @@ class Solution(object):
 
         # skip trailing spaces
         while i >= 0 and s[i] == ' ':
-            i -= 1 
+            i -= 1
 
         # count characters of last word
         while i >= 0 and s[i] != ' ':
