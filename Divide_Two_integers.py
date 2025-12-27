@@ -6,7 +6,7 @@ class Solution(object):
         # Overflow case
         if dividend == INT_MIN and divisor == -1: 
             return INT_MAX
-
+ 
         # Determine sign
         negative = (dividend < 0) ^ (divisor < 0)
 
