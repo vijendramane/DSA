@@ -10,7 +10,7 @@ class Solution(object):
         # Determine sign
         negative = (dividend < 0) ^ (divisor < 0)
 
-        # Work with positive values
+        # Work with positive values 
         dividend = abs(dividend)
         divisor = abs(divisor)
 
