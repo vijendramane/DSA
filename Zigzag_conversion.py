@@ -5,7 +5,7 @@ class Solution(object):
 
         rows = [""] * numRows
         currentRow = 0
-        direction = 1  # 1 = down, -1 = up
+        direction = 1  # 1 = down, -1 = up 
 
         for ch in s:
             rows[currentRow] += ch
