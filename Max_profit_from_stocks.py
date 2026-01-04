@@ -18,7 +18,7 @@ class Solution:
             else:
                 node_cost = present[node]
             
-            node_profit = future[node] - node_cost
+            node_profit = future[node] - node_cost 
             
             # If no children, return simple options
             if not children[node]:
