@@ -4,7 +4,7 @@ class Solution(object):
         
         left = 0
         max_len = 0 
-
+ 
         for right, char in enumerate(s):
             if char in seen and seen[char] >= left:
                 left = seen[char] + 1
