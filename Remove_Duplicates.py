@@ -1,5 +1,5 @@
 class Solution(object):
-    def removeDuplicates(self, nums):
+    def removeDuplicates(self, nums): 
         if not nums:
             return 0
 
