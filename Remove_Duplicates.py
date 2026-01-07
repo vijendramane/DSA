@@ -3,7 +3,7 @@ class Solution(object):
         if not nums:
             return 0
 
-        k = 1  # index for next unique element 
+        k = 1  # index for next unique element  
   
         for i in range(1, len(nums)):
             if nums[i] != nums[i - 1]:
