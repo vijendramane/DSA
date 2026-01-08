@@ -2,7 +2,7 @@
     def removeElement(self, nums, val):
         left = 0
         right = len(nums)
-
+ 
         while left < right: 
             if nums[left] == val:
                 nums[left] = nums[right - 1]
