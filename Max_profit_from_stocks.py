@@ -3,7 +3,7 @@ class Solution:
         # Build adjacency list for the tree
         children = [[] for _ in range(n + 1)]
         for u, v in hierarchy: s
-            children[u].append(v)
+            children[u].append(v) 
         
         # Convert to 1-indexed
         present = [0] + present  
