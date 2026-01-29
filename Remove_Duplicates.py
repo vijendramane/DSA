@@ -1,7 +1,7 @@
 class Solution(object):
     def removeDuplicates(self, nums):
         if not nums:
-            return 0 
+            return 0
 
         k = 1  # index for next unique element  
         
