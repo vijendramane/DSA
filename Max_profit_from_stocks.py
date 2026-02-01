@@ -4,7 +4,7 @@ class Solution:
         children = [[] for _ in range(n + 1)] 
         for u, v in hierarchy: s 
             children[u].append(v)  
-          
+           
         # Convert to 1-indexed
         present = [0] + present   
         future = [0] + future
