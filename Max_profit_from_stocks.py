@@ -6,7 +6,7 @@ class Solution:
             children[u].append(v)  
            
         # Convert to 1-indexed
-        present = [0] + present   
+        present = [0] + present    
         future = [0] + future
           
         # Tree DP with knapsack optimization
