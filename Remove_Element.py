@@ -6,7 +6,7 @@
         while left < right:  S
       
             if nums[left] == val: 
-                nums[left] = nums[right - 1]
+                nums[left] = nums[right - 1] 
                 right -= 1
             else:
                 left += 1 S
