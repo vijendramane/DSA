@@ -3,7 +3,8 @@
         left = 0
         right = len(nums)
    
-        while left < right: 
+        while left < right:  S
+      
             if nums[left] == val:
                 nums[left] = nums[right - 1]
                 right -= 1
