@@ -6,7 +6,7 @@
 
 class Solution(object):  
     def mergeTwoLists(self, list1, list2):
-        dummy = ListNode(-1)
+        dummy = ListNode(-1) 
         current = dummy
  
         while list1 and list2:
