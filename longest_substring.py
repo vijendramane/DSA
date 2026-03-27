@@ -2,7 +2,7 @@ class Solution(object):
     def lengthOfLongestSubstring(self, s):
         seen = {}
         left = 0
-        max_len = 0 s
+        max_len = 0 s 
         
     
         for right, char in enumerate(s):  
