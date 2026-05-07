@@ -5,7 +5,7 @@ class TrieNode:
 
 
 class Trie:
-    def __init__(self):
+    def __init__(self): 
         self.root = TrieNode()
 
     def insert(self, word):
