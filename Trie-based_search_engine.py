@@ -53,17 +53,7 @@ class Trie:
             self._dfs(next_node, path + char, suggestions)
 
 
-trie = Trie()
 
-words = [
-    "apple",
-    "app",
-    "application",
-    "ape",
-    "bat",
-    "battle",
-    "banana"
-]
 
 for word in words:
     trie.insert(word)
