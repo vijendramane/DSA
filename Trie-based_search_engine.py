@@ -52,7 +52,17 @@ class Trie:
         for char, next_node in node.children.items():
             self._dfs(next_node, path + char, suggestions)
 
+trie = Trie()
 
+words = [
+    "apple",
+    "app",
+    "application",
+    "ape",
+    "bat",
+    "battle",
+    "banana"
+]
 
 
 for word in words:
