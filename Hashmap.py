@@ -15,7 +15,7 @@ class DoublyLinkedList:
         self.tail.prev = self.head
 
     def add_to_front(self, node):
-        node.next = self.head.next
+        node.next = self.head.next  
         node.prev = self.head
 
         self.head.next.prev = node
