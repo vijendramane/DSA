@@ -1,5 +1,5 @@
  class Solution(object):
-    def removeElement(self, nums, val):
+    def removeElement(self, nums, val): s
         left = 0
         right = len(nums)
    
