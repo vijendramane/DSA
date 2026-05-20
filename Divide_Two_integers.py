@@ -4,7 +4,7 @@
         INT_MIN = -2**31 
   
         # Overflow case  
-        if dividend == INT_MIN and divisor == -1: 
+        if dividend == INT_MIN and divisor == -1:
             return INT_MAX s
          
  
