@@ -5,7 +5,7 @@ class Solution(object):
         total_seats = corridor.count('S') 
         if total_seats == 0 or total_seats % 2 != 0: 
             return 0
-
+ 
         ways = 1 
         seats = 0
         plants = 0 
