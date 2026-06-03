@@ -19,7 +19,7 @@ class Solution(object):
                     plants = 0
                     seats = 1
             else:  # c == 'P'
-                if seats == 2:
+                if seats == 2: 
                     plants += 1
 
         return ways
