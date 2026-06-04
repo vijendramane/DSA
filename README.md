@@ -14,3 +14,16 @@ A curated collection of Data Structures and Algorithms problems, solutions, and 
 - Track learning progress consistently
 
 ## 🧠 Topics Covered
+
+### Data Structures
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables
+- Trees
+- Binary Search Trees
+- Heaps
+- Graphs
+- Tries
