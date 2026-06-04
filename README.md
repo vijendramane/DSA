@@ -27,3 +27,18 @@ A curated collection of Data Structures and Algorithms problems, solutions, and 
 - Heaps
 - Graphs
 - Tries
+
+
+
+### Algorithms
+- Sorting
+- Searching
+- Recursion
+- Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Divide and Conquer
