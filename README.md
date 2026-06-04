@@ -28,8 +28,6 @@ A curated collection of Data Structures and Algorithms problems, solutions, and 
 - Graphs
 - Tries
 
-
-
 ### Algorithms
 - Sorting
 - Searching
@@ -42,3 +40,8 @@ A curated collection of Data Structures and Algorithms problems, solutions, and 
 - Two Pointers
 - Binary Search
 - Divide and Conquer
+
+
+## ⚙️ Languages Used
+
+- Python
