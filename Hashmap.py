@@ -3,7 +3,7 @@ class Node:
         self.key = key
         self.value = value   
         self.prev = None
-        self.next = None
+        self.next = None 
         
    
 class DoublyLinkedList:
