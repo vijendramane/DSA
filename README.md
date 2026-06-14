@@ -5,7 +5,7 @@
 
 A curated collection of Data Structures and Algorithms problems, solutions, and implementations. This repository serves as my personal DSA practice log and interview preparation resource.
 
-## 🎯 Objectives 
+## 🎯 Objectives
  
 - Strengthen problem-solving skills
 - Learn and implement core data structures
