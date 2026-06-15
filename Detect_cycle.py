@@ -7,7 +7,7 @@ class Node:
 
 def has_cycle(head):
 
-    slow = head
+    slow = head 
     fast = head
 
     while fast and fast.next:
