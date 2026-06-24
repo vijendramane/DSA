@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution(object):s
     def lengthOfLastWord(self, s):
         length = 0
         i = len(s) - 1
