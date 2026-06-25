@@ -10,7 +10,7 @@ def dfs(maze, row, col, visited):
         col >= cols or
         maze[row][col] == 1 or
         (row, col) in visited
-    ):
+    ): 
         return False
    
     if row == rows - 1 and col == cols - 1:
