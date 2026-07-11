@@ -9,7 +9,7 @@ A curated collection of Data Structures and Algorithms problems, solutions, and 
  
 - Strengthen problem-solving skills
 - Learn and implement core data structures
-- Master algorithmic techniques
+- Master algorithmic techniques 
 - Prepare for coding interviews and competitive programming
 - Track learning progress consistently 
  
