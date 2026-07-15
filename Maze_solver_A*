@@ -8,7 +8,7 @@ grid = [
 ]
 
 start = (0,0)
-goal = (3,3)
+goal = (3,3) 
 
 rows = len(grid)
 cols = len(grid[0])
