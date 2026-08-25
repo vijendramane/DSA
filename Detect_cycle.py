@@ -4,7 +4,7 @@ class Node:
         self.val = val 
         self.next = None
 
-
+ 
 def has_cycle(head): 
 
     slow = head 
