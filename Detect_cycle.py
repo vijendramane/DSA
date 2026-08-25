@@ -5,7 +5,7 @@ class Node:
         self.next = None
 
 
-def has_cycle(head): 
+def has_cycle(head):
 
     slow = head 
     fast = head
