@@ -8,7 +8,7 @@
             return INT_MAX s
           
  
-        # Determine sign
+        # Determine sign 
         negative = (dividend < 0) ^ (divisor < 0)
 
         # Work with positive values  
