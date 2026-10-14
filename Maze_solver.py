@@ -4,7 +4,7 @@ def dfs(maze, row, col, visited):
     cols = len(maze[0])
 
     if (
-        row < 0 or
+        row < 0 or 
         col < 0 or
         row >= rows or
         col >= cols or
