@@ -1,6 +1,6 @@
 def dfs(maze, row, col, visited):
 
-    rows = len(maze)
+    rows = len(maze) 
     cols = len(maze[0])
 
     if (
